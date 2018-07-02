@@ -1,8 +1,9 @@
-Cryptocurrency Analysis
+**##Cryptocurrency Analysis**
 
 This repository contains the codes and files pertaining to sentiment analysis and comparison of various top cryptocurrencies today.
 
-INTRODUCTION
+**INTRODUCTION**
+
 A cryptocurrency is a digital or virtual currency that uses cryptography to secure financial
 transactions, control the creation of additional units, and verify the transfer of assets.
 Cryptocurrencies use decentralized control as opposed to centralized electronic money
@@ -12,7 +13,7 @@ bitcoins in circulation with a total market value of over $140 billion. Bitcoin'
 spawned several competing cryptocurrencies, such as Litecoin, Ripple and Ethereum.
 
 
-MOTIVATION FOR THE STUDY
+**MOTIVATION FOR THE STUDY**
 
 While there are multiple analyses that have been performed on cryptocurrencies
 since the time of their inception, for this particular case I wanted to find the
@@ -23,7 +24,7 @@ as through various other API's.
 
 
 
-QUESTIONS & HYPOTHESIS
+**QUESTIONS & HYPOTHESIS**
 
 Following are some of the key questions/ hypothesis that I would like to answer
 a)	What is the trend/ distribution that cryptocurrency prices are following? How have these fared over the past year?
@@ -33,7 +34,7 @@ d)	What is the correlation between the major cryptocurrencies?
 e)	What are the sentiments of the various stakeholders regarding cryptocurrencies?
 
 
-DATA COLLECTION & CLEANING
+**DATA COLLECTION & CLEANING**
 
 Twitter, Google Trends and CryptoCompare were predominantly used as data source for
 this study.
