@@ -1,4 +1,4 @@
-**##Cryptocurrency Analysis**
+# Cryptocurrency Analysis 
 
 This repository contains the codes and files pertaining to sentiment analysis and comparison of various top cryptocurrencies today.
 
